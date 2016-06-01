@@ -1,0 +1,3 @@
+nacholibre_helper_homepage:
+    path:     /
+    defaults: { _controller: nacholibreHelperBundle:Default:index }
